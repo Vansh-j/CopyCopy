@@ -1,0 +1,13 @@
+# Swift Package Manager build artifacts
+.build/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+/Packages
+
+# Xcode/SwiftPM project user data (if opened in Xcode later)
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+.swiftpm/
